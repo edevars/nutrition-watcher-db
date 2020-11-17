@@ -1,0 +1,4 @@
+link_categories = //a[@class="calorie-link"]/@href
+ingredient_name = //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@class="food sorting_1"]/a/text()
+ingredient_serving =  //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@class="serving portion"]/text()
+ingredient_calories = //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@class="kcal portion"]/data/text()
