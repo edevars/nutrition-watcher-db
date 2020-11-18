@@ -1,0 +1,64 @@
+name, serving_quantity, grams_per_serving, cal
+Artichoke, 1 artichoke, 128, 60
+Arugula, 1 leaf, 2, 1
+Asparagus, 1 spear, 12, 2
+Aubergine, 1 aubergine, 458, 115
+Beetroot, 1 beet, 82, 35
+Bell Pepper, 1 pepper, 73, 15
+Black Olives, 1 olive, 2.7, 2
+Broccoli, 1 bunch, 608, 207
+Brussels Sprouts, 1 sprout, 19, 8
+Cabbage, 1 head, 908, 227
+Capsicum, 1 pepper, 45, 12
+Carrot, 1 carrot, 61, 25
+Cauliflower, 1 floweret, 13, 3
+Celery, 1 stalk, 40, 6
+Chard, 1 leaf, 48, 9
+Cherry Tomato, 1 cherry tomato, 20, 20
+Chicory, 1 head, 53, 38
+Chinese Cabbage, 1 head, 840, 134
+Chives, 1 tbsp/chopped, 3, 1
+Collard Greens, 1 cup/raw, 36, 12
+Corn, 1 cup, 154, 562
+Courgette, 1 courgette, 196, 33
+Creamed Spinach, 1 cup, 200, 148
+Cucumber, 1 cucumber, 410, 66
+Eggplant, 1 eggplant, 458, 115
+Endive, 1 head, 513, 87
+Fennel, 1 bulb, 234, 73
+Garlic, 1 clove, 3, 4
+Gherkin, 1 gherkin, 65, 9
+Gourd, 1 gourd, 771, 108
+Green Beans, 1 cup, 110, 34
+Green Olives, 1 olive, 2.7, 2
+Green Onion, 1 green onion, 15, 5
+Horseradish, 1 tbsp, 15, 7
+Kale, 1 cup/chopped, 67, 33
+Kohlrabi, 1 kohlrabi, 400, 108
+Kumara, 1 kumara, 130, 112
+Leek, 1 leek, 89, 54
+Lettuce, 1 head, 600, 90
+Mushrooms, 1 mushroom, 5.4, 1
+Mustard Greens, 1 cup/chopped, 56, 15
+Nori, 1 sheet, 2.6, 1
+Okra, 1 pod, 12, 4
+Olives, 1 olive, 2.7, 2
+Onion, 1 onion, 85, 34
+Parsnips, 1 parsnip, 170, 128
+Peas, 1 cup, 98, 79
+Pepper, 1 pepper, 75, 20
+Potato, 1 potato, 213, 164
+Pumpkin, 1 pumpkin, 196, 51
+Radishes, 1 radish, 4.5, 1
+Red Cabbage, 1 leaf, 22, 7
+Rutabaga, 1 rutabaga, 386, 147
+Shallots, 1 shallot, 25, 18
+Spinach, 1 bunch, 340, 78
+Squash, 1 squash, 196, 88
+Sweet Potato, 1 potato, 130, 112
+Tomato, 1 tomato, 111, 20
+Turnip Greens, 1 turnip green, 170, 34
+Turnips, 1 turnip, 122, 34
+Wasabi, 1 root, 169, 184
+Winter Squash, 1 squash, 431, 147
+Zucchini, 1 zucchini, 196, 33

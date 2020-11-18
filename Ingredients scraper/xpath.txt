@@ -3,3 +3,4 @@ ingredient_name = //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@c
 ingredient_serving = //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@class="serving portion"]/text()[1]
 ingredient_grams_per_serving = //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@class="serving portion"]/child::*/text()
 ingredient_calories = //tr[@class="kt-row even" or @class="kt-row odd"]/child::td[@class="kcal portion"]/data/text()
+category_title = concat(//h1/text(),"")
