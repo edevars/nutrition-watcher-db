@@ -54,7 +54,8 @@ create table ingredients(
 	ingredient_id int not null auto_increment,
     ingredient_name varchar(255) not null,
     total_calories int not null,
-    measure varchar(20) not null,
+    measure varchar(30) not null,
+    grams_per_measure VARCHAR(20),
     primary key (ingredient_id)
 );
 
